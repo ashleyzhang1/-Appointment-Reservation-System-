@@ -1,1 +1,1 @@
-# -Appointment-Reservation-System-
+# vaccine-scheduler-java
