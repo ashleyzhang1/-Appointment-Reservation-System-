@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test" type="Application" factoryName="Application">
+    <envs>
+      <env name="Server" value="hw3-ruoqi99" />
+      <env name="DBName" value="HW3_ruoqi99" />
+      <env name="UserID" value="ruoqi99" />
+      <env name="Password" value="West0brook9909?" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="scheduler.Scheduler" />
+    <module name="vaccine-scheduler-java-main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
